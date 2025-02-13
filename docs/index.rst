@@ -1,5 +1,5 @@
-Guia de Instalação do Sistema Polare
-====================================
+Guia de Instalação do Sistema Polare (IVAN TESTE)
+=================================================
 
 Este guia descreve o requisitos necessários e o processo de instalação do sistema Polare, tendo como base a
 implantação que foi efetuada no Instituto Federal de Educação Ciência e Tecnologia Do Pará (IFPA).
